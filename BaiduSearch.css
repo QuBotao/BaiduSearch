@@ -1,0 +1,24 @@
+#q {
+	width: 300px; 
+	height: 30px; 
+	padding: 5px; 
+	border:1px solid #f90; 
+	font-size: 16px;
+}
+#ul1 {
+	border:1px solid #f90; 
+	width: 310px; 
+	margin: 0;padding: 0; 
+	display: none;
+}
+li a { 
+	line-height: 30px; 
+	padding: 5px; 
+	text-decoration: none; 
+	color: black; 
+	display: block;
+}
+li a:hover{ 
+	background: #f90; 
+	color: white; 
+}
